@@ -1,5 +1,5 @@
-# students-performance-analysis
-# 🎓 Students Performance Analysis - Exploratory Data Analysis (EDA)
+# 🎓 Students Performance Analysis 
+
 ## 📌 Project Overview
 
 ### This project presents a complete Exploratory Data Analysis (EDA) on the Students Performance Dataset.
